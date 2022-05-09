@@ -1,0 +1,21 @@
+.App {
+  width: 80%;
+  margin: auto;
+ 
+}
+
+
+img{
+  width: 200px;
+  height: 200px;
+}
+
+#main{
+  display: flex;
+}
+#title-section{
+  font-weight: bold;
+  
+  flex-direction: column;
+  
+}
